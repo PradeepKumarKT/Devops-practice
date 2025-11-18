@@ -4,8 +4,8 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.metaweb</groupId>
-    <artifactId>DemoWebApp</artifactId>
+    <groupId>com.DRAWING-RELEASE</groupId>
+    <artifactId>Drawing-Release</artifactId>
     <version>v1</version>
     <packaging>war</packaging>
 
